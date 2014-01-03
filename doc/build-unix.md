@@ -14,6 +14,11 @@ To Build
 	cd src/
 	make -f makefile.unix		# Headless litecoin
 
+Or for RedHat 6 / CentOS 6:
+
+	make -f makefile.unix BOOST_LIB_SUFFIX=-mt
+
+
 See readme-qt.rst for instructions on building Litecoin-Qt, the graphical user interface.
 
 Dependencies
