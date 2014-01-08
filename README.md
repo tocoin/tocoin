@@ -3,14 +3,15 @@ Tocoin integration/staging tree
 
 http://www.tocoin.org
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
-Copyright (c) 2013-2014 Tocoin Developers
+Copyright (c) 2009-2013 Bitcoin Developers.
+Copyright (c) 2011-2013 Litecoin Developers.
+Copyright (c) 2013-2014 Tocoin Developers.
 
 What is Tocoin?
 ----------------
 
 Tocoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+
 It is based on the Litecoin codebase (starting with v0.8.6.1) and uses the same principles on it's own unique blockchain.
 
  - 2.5 minute block targets
@@ -21,8 +22,14 @@ The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
+[Note that Tocoin uses it's own blockchain and unique genesis block, there is
+no crossover or connection with any other coin blockchain]. 
+
 For more information, as well as an immediately useable, binary version of
 the Tocoin client sofware (once available), see http://www.tocoin.org.
+
+The source is freely available on github: https://github.com/tocoin/tocoin
+Please check there for the current development status & latest release.
 
 License
 -------

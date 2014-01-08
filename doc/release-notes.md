@@ -1,3 +1,11 @@
+Tocoin 0.8.6.1 is the initial Tocoin release.
+
+It is based on the Litecoin 0.8.6.1 source but using a different timestamp & phrase [for 1st January 2014] with a new genesis block & blockchain.
+
+Virtually all code credits go to the Litecoin & Bicoin developers.
+The Litecoin code history is below.
+
+
 0.8.6.1 changes
 =============
 
